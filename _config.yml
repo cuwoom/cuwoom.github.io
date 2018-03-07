@@ -1,5 +1,5 @@
 # main text of home
-name: Niveditha Ram
+name: cuwoom
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
@@ -26,24 +26,24 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+# twitter: NivedithaRam
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: cuwoom
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: suung.jo@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
+    Suung.jo:
+        name: Suung Jo
         bio: Physics, Reading, Teaching.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        #twitter: NivedithaRam
 
 
 # do you want a larger site? change the option below
@@ -57,8 +57,8 @@ width: large
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
-research: true
-teaching: true
+#research: true
+#teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true
@@ -76,7 +76,7 @@ related: true
 blog-nav-links: true
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
